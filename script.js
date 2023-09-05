@@ -6,7 +6,7 @@ const descripcionTraducida = {
   "clear sky": "cielo despejado",
   "few clouds": "pocas nubes",
   "scattered clouds": "nubes dispersas",
-  "broken clouds": "nubes rotas",
+  "partly cloudy": "parcialmente nublado",
   "overcast clouds": "nublado",
   "mist": "niebla",
   "light rain": "lluvia ligera",
